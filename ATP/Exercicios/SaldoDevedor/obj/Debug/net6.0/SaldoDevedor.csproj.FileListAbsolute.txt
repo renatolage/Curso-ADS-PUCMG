@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/SaldoDevedor.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/SaldoDevedor.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/SaldoDevedor.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/SaldoDevedor.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/SaldoDevedor.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/bin/Debug/net6.0/SaldoDevedor
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/bin/Debug/net6.0/SaldoDevedor.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/bin/Debug/net6.0/SaldoDevedor.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/bin/Debug/net6.0/SaldoDevedor.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/bin/Debug/net6.0/SaldoDevedor.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/SaldoDevedor.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/refint/SaldoDevedor.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/SaldoDevedor.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/SaldoDevedor.genruntimeconfig.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/SaldoDevedor/obj/Debug/net6.0/ref/SaldoDevedor.dll
