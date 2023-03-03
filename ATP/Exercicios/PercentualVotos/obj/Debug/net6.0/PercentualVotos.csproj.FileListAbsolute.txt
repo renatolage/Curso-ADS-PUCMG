@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/PercentualVotos.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/PercentualVotos.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/PercentualVotos.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/PercentualVotos.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/PercentualVotos.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/bin/Debug/net6.0/PercentualVotos
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/bin/Debug/net6.0/PercentualVotos.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/bin/Debug/net6.0/PercentualVotos.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/bin/Debug/net6.0/PercentualVotos.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/bin/Debug/net6.0/PercentualVotos.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/PercentualVotos.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/refint/PercentualVotos.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/PercentualVotos.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/PercentualVotos.genruntimeconfig.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/PercentualVotos/obj/Debug/net6.0/ref/PercentualVotos.dll
