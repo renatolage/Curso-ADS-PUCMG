@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/AreaTrapezio.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/AreaTrapezio.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/AreaTrapezio.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/AreaTrapezio.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/AreaTrapezio.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/bin/Debug/net6.0/AreaTrapezio
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/bin/Debug/net6.0/AreaTrapezio.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/bin/Debug/net6.0/AreaTrapezio.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/bin/Debug/net6.0/AreaTrapezio.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/bin/Debug/net6.0/AreaTrapezio.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/AreaTrapezio.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/refint/AreaTrapezio.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/AreaTrapezio.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/AreaTrapezio.genruntimeconfig.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/AreaTrapezio/obj/Debug/net6.0/ref/AreaTrapezio.dll
