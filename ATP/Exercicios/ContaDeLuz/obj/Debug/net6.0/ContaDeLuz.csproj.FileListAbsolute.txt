@@ -1,0 +1,15 @@
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/ContaDeLuz.csproj.AssemblyReference.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/ContaDeLuz.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/ContaDeLuz.AssemblyInfoInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/ContaDeLuz.AssemblyInfo.cs
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/ContaDeLuz.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/bin/Debug/net6.0/ContaDeLuz
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/bin/Debug/net6.0/ContaDeLuz.deps.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/bin/Debug/net6.0/ContaDeLuz.runtimeconfig.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/bin/Debug/net6.0/ContaDeLuz.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/bin/Debug/net6.0/ContaDeLuz.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/ContaDeLuz.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/refint/ContaDeLuz.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/ContaDeLuz.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/ContaDeLuz.genruntimeconfig.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ContaDeLuz/obj/Debug/net6.0/ref/ContaDeLuz.dll

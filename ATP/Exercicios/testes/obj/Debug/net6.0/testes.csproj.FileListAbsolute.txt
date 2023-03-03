@@ -1,0 +1,15 @@
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/testes.csproj.AssemblyReference.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/testes.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/testes.AssemblyInfoInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/testes.AssemblyInfo.cs
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/testes.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/bin/Debug/net6.0/testes
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/bin/Debug/net6.0/testes.deps.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/bin/Debug/net6.0/testes.runtimeconfig.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/bin/Debug/net6.0/testes.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/bin/Debug/net6.0/testes.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/testes.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/refint/testes.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/testes.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/testes.genruntimeconfig.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/testes/obj/Debug/net6.0/ref/testes.dll

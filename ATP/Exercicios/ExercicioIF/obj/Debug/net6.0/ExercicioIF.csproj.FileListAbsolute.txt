@@ -1,0 +1,15 @@
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/bin/Debug/net6.0/ExercicioIF
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/bin/Debug/net6.0/ExercicioIF.deps.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/bin/Debug/net6.0/ExercicioIF.runtimeconfig.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/bin/Debug/net6.0/ExercicioIF.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/bin/Debug/net6.0/ExercicioIF.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/ExercicioIF.csproj.AssemblyReference.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/ExercicioIF.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/ExercicioIF.AssemblyInfoInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/ExercicioIF.AssemblyInfo.cs
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/ExercicioIF.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/ExercicioIF.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/refint/ExercicioIF.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/ExercicioIF.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/ExercicioIF.genruntimeconfig.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/ExercicioIF/obj/Debug/net6.0/ref/ExercicioIF.dll

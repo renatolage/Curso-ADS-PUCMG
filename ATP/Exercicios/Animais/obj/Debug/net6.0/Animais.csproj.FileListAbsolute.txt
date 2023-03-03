@@ -1,0 +1,15 @@
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/Animais
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/Animais.deps.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/Animais.runtimeconfig.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/Animais.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/Animais.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/Animais.csproj.AssemblyReference.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/Animais.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/Animais.AssemblyInfoInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/Animais.AssemblyInfo.cs
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/Animais.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/Animais.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/refint/Animais.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/Animais.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/Animais.genruntimeconfig.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/obj/Debug/net6.0/ref/Animais.dll

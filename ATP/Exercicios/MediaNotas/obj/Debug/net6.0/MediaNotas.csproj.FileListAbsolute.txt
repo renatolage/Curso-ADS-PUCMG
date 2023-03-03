@@ -1,0 +1,15 @@
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/bin/Debug/net6.0/MediaNotas
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/bin/Debug/net6.0/MediaNotas.deps.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/bin/Debug/net6.0/MediaNotas.runtimeconfig.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/bin/Debug/net6.0/MediaNotas.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/bin/Debug/net6.0/MediaNotas.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/MediaNotas.csproj.AssemblyReference.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/MediaNotas.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/MediaNotas.AssemblyInfoInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/MediaNotas.AssemblyInfo.cs
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/MediaNotas.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/MediaNotas.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/refint/MediaNotas.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/MediaNotas.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/MediaNotas.genruntimeconfig.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/MediaNotas/obj/Debug/net6.0/ref/MediaNotas.dll

@@ -1,0 +1,5 @@
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/publish/Animais
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/publish/Animais.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/publish/Animais.deps.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/publish/Animais.runtimeconfig.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/Animais/bin/Debug/net6.0/publish/Animais.pdb

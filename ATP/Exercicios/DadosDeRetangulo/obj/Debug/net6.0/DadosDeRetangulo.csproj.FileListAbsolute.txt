@@ -1,0 +1,15 @@
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/bin/Debug/net6.0/DadosDeRetangulo
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/bin/Debug/net6.0/DadosDeRetangulo.deps.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/bin/Debug/net6.0/DadosDeRetangulo.runtimeconfig.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/bin/Debug/net6.0/DadosDeRetangulo.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/bin/Debug/net6.0/DadosDeRetangulo.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/DadosDeRetangulo.csproj.AssemblyReference.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/DadosDeRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/DadosDeRetangulo.AssemblyInfoInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/DadosDeRetangulo.AssemblyInfo.cs
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/DadosDeRetangulo.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/DadosDeRetangulo.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/refint/DadosDeRetangulo.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/DadosDeRetangulo.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/DadosDeRetangulo.genruntimeconfig.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/DadosDeRetangulo/obj/Debug/net6.0/ref/DadosDeRetangulo.dll

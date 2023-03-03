@@ -1,0 +1,15 @@
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/bin/Debug/net6.0/CalcSalario
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/bin/Debug/net6.0/CalcSalario.deps.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/bin/Debug/net6.0/CalcSalario.runtimeconfig.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/bin/Debug/net6.0/CalcSalario.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/bin/Debug/net6.0/CalcSalario.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/CalcSalario.csproj.AssemblyReference.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/CalcSalario.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/CalcSalario.AssemblyInfoInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/CalcSalario.AssemblyInfo.cs
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/CalcSalario.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/CalcSalario.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/refint/CalcSalario.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/CalcSalario.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/CalcSalario.genruntimeconfig.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/CalcSalario/obj/Debug/net6.0/ref/CalcSalario.dll

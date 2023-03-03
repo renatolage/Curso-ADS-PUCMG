@@ -1,0 +1,15 @@
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/bin/Debug/net6.0/SomaDoisNum
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/bin/Debug/net6.0/SomaDoisNum.deps.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/bin/Debug/net6.0/SomaDoisNum.runtimeconfig.json
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/bin/Debug/net6.0/SomaDoisNum.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/bin/Debug/net6.0/SomaDoisNum.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/SomaDoisNum.csproj.AssemblyReference.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/SomaDoisNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/SomaDoisNum.AssemblyInfoInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/SomaDoisNum.AssemblyInfo.cs
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/SomaDoisNum.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/SomaDoisNum.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/refint/SomaDoisNum.dll
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/SomaDoisNum.pdb
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/SomaDoisNum.genruntimeconfig.cache
+/home/renato/Workspace/Faculdade ADS/ATP/Exercicios/SomaDoisNum/obj/Debug/net6.0/ref/SomaDoisNum.dll
