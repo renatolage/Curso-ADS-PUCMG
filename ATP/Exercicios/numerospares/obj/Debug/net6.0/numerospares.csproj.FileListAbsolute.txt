@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/bin/Debug/net6.0/numerospares
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/bin/Debug/net6.0/numerospares.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/bin/Debug/net6.0/numerospares.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/bin/Debug/net6.0/numerospares.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/bin/Debug/net6.0/numerospares.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/numerospares.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/numerospares.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/numerospares.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/numerospares.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/numerospares.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/numerospares.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/refint/numerospares.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/numerospares.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/numerospares.genruntimeconfig.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/numerospares/obj/Debug/net6.0/ref/numerospares.dll

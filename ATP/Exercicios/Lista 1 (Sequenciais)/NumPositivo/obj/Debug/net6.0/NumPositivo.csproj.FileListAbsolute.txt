@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/obj/Debug/net6.0/NumPositivo.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/obj/Debug/net6.0/NumPositivo.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/obj/Debug/net6.0/NumPositivo.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/obj/Debug/net6.0/NumPositivo.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/obj/Debug/net6.0/NumPositivo.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/bin/Debug/net6.0/NumPositivo
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/bin/Debug/net6.0/NumPositivo.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/bin/Debug/net6.0/NumPositivo.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/bin/Debug/net6.0/NumPositivo.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/bin/Debug/net6.0/ref/NumPositivo.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/bin/Debug/net6.0/NumPositivo.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/obj/Debug/net6.0/NumPositivo.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/obj/Debug/net6.0/ref/NumPositivo.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/obj/Debug/net6.0/NumPositivo.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/NumPositivo/obj/Debug/net6.0/NumPositivo.genruntimeconfig.cache

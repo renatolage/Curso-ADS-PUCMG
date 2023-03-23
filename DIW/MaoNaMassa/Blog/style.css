@@ -1,3 +1,103 @@
-.bgimg{
-    background: url("bgImgCadFornecedor.jpg");
+header {
+    height: 80px;
+    background: url("logo.png") no-repeat;
+    border-bottom: solid 1px rgb(70, 67, 67);
+}
+
+main {
+    width: 70%;
+    float: left;
+    background-color: lightgoldenrodyellow;
+}
+
+aside {
+    float: left;
+    width: 30%;
+    background-color: lightgray;
+}
+
+/* Componente Caixa Menu Principal */
+
+.caixa-menuprincipal {
+    right: 0px;
+    float: right;
+    margin: 10px
+}
+
+.caixa-menuprincipal ul {
+    list-style-type: none;
+}
+
+.caixa-menuprincipal ul li {
+    display: inline-block;
+}
+
+.caixa-menuprincipal ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    background-color: lightblue;
+}
+
+.caixa-menuprincipal ul li a:hover {
+    background-color: black;
+    color: white    
+}
+
+/* Componente Caixa Post */
+.caixa-post {
+    padding: 10px 10px;
+    clear: both;
+}
+
+.caixa-post img {
+    display: block;
+    float: left;
+    margin-right: 10px;
+    width: 70px
+}
+
+.caixa-post h4 {
+    color: darkred;
+    font-size: 60%;
+    margin-bottom: 10px
+}
+
+.caixa-post p.texto {
+    font-size: 80%;
+}
+
+.caixa-post span:nth-child(3) {
+    background-color: lightskyblue;
+    color: white;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 3px
+}
+
+/* Componente Caixa Pesquisa */
+.caixa-pesquisa {
+    margin: 20px;
+    margin-bottom: 30px;
+}
+
+.caixa-pesquisa h3 {
+    margin-bottom: 10px;
+}
+
+/* Componente Caixa Categoria */
+.caixa-categoria {
+    margin: 20px;
+}
+
+.caixa-categoria h3 {
+    margin-bottom: 10px;
+}
+
+.caixa-categoria ul {
+    list-style-type: none;
+}
+
+.caixa-categoria a {
+    text-decoration: none;
 }

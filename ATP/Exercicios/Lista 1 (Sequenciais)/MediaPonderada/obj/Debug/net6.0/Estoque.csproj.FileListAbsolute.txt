@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/bin/Debug/net6.0/Estoque
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/bin/Debug/net6.0/Estoque.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/bin/Debug/net6.0/Estoque.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/bin/Debug/net6.0/Estoque.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/bin/Debug/net6.0/Estoque.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/Estoque.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/Estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/Estoque.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/Estoque.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/Estoque.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/Estoque.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/refint/Estoque.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/Estoque.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/Estoque.genruntimeconfig.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 2 (Condicionais)/MediaPonderada/obj/Debug/net6.0/ref/Estoque.dll

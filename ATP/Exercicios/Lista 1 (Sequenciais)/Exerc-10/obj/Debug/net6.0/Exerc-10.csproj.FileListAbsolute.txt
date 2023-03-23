@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/bin/Debug/net6.0/Exerc-10
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/bin/Debug/net6.0/Exerc-10.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/bin/Debug/net6.0/Exerc-10.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/bin/Debug/net6.0/Exerc-10.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/bin/Debug/net6.0/ref/Exerc-10.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/bin/Debug/net6.0/Exerc-10.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/obj/Debug/net6.0/Exerc-10.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/obj/Debug/net6.0/Exerc-10.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/obj/Debug/net6.0/Exerc-10.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/obj/Debug/net6.0/Exerc-10.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/obj/Debug/net6.0/Exerc-10.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/obj/Debug/net6.0/Exerc-10.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/obj/Debug/net6.0/ref/Exerc-10.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/obj/Debug/net6.0/Exerc-10.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-10/obj/Debug/net6.0/Exerc-10.genruntimeconfig.cache

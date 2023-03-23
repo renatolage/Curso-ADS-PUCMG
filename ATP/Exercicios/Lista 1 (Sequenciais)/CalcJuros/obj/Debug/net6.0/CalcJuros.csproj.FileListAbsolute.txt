@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/bin/Debug/net6.0/CalcJuros
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/bin/Debug/net6.0/CalcJuros.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/bin/Debug/net6.0/CalcJuros.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/bin/Debug/net6.0/CalcJuros.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/bin/Debug/net6.0/CalcJuros.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/CalcJuros.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/CalcJuros.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/CalcJuros.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/CalcJuros.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/CalcJuros.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/CalcJuros.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/refint/CalcJuros.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/CalcJuros.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/CalcJuros.genruntimeconfig.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcJuros/obj/Debug/net6.0/ref/CalcJuros.dll

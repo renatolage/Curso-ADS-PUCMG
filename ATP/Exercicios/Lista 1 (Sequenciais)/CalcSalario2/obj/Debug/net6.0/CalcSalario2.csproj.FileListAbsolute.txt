@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/bin/Debug/net6.0/CalcSalario2
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/bin/Debug/net6.0/CalcSalario2.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/bin/Debug/net6.0/CalcSalario2.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/bin/Debug/net6.0/CalcSalario2.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/bin/Debug/net6.0/CalcSalario2.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/CalcSalario2.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/CalcSalario2.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/CalcSalario2.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/CalcSalario2.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/CalcSalario2.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/CalcSalario2.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/refint/CalcSalario2.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/CalcSalario2.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/CalcSalario2.genruntimeconfig.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/CalcSalario2/obj/Debug/net6.0/ref/CalcSalario2.dll

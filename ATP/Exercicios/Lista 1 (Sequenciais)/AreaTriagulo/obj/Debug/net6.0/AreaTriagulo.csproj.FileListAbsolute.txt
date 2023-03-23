@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/bin/Debug/net6.0/AreaTriagulo
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/bin/Debug/net6.0/AreaTriagulo.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/bin/Debug/net6.0/AreaTriagulo.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/bin/Debug/net6.0/AreaTriagulo.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/bin/Debug/net6.0/AreaTriagulo.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/AreaTriagulo.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/AreaTriagulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/AreaTriagulo.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/AreaTriagulo.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/AreaTriagulo.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/AreaTriagulo.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/refint/AreaTriagulo.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/AreaTriagulo.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/AreaTriagulo.genruntimeconfig.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/AreaTriagulo/obj/Debug/net6.0/ref/AreaTriagulo.dll

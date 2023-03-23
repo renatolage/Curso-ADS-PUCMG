@@ -1,0 +1,30 @@
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.csproj.AssemblyReference.cache
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.GeneratedMSBuildEditorConfig.editorconfig
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.AssemblyInfoInputs.cache
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.AssemblyInfo.cs
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.csproj.CoreCompileInputs.cache
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs.exe
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs.deps.json
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs.runtimeconfig.json
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs.dll
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs.pdb
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.dll
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/refint/numerospares.cs.dll
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.pdb
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.genruntimeconfig.cache
+E:/1. COISAS DO LEO/1.csharp/numerospares.cs/obj/Debug/net6.0/ref/numerospares.cs.dll
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs.deps.json
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs.runtimeconfig.json
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs.dll
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/bin/Debug/net6.0/numerospares.cs.pdb
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.csproj.AssemblyReference.cache
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.GeneratedMSBuildEditorConfig.editorconfig
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.AssemblyInfoInputs.cache
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.AssemblyInfo.cs
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.csproj.CoreCompileInputs.cache
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.dll
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/refint/numerospares.cs.dll
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.pdb
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/numerospares.cs.genruntimeconfig.cache
+/media/renato/4094-FA3E/1.csharp/numerospares.cs/obj/Debug/net6.0/ref/numerospares.cs.dll

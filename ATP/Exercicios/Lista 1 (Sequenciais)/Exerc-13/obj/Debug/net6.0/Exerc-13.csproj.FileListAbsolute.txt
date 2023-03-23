@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/obj/Debug/net6.0/Exerc-13.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/obj/Debug/net6.0/Exerc-13.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/obj/Debug/net6.0/Exerc-13.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/obj/Debug/net6.0/Exerc-13.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/obj/Debug/net6.0/Exerc-13.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/bin/Debug/net6.0/Exerc-13
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/bin/Debug/net6.0/Exerc-13.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/bin/Debug/net6.0/Exerc-13.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/bin/Debug/net6.0/Exerc-13.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/bin/Debug/net6.0/ref/Exerc-13.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/bin/Debug/net6.0/Exerc-13.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/obj/Debug/net6.0/Exerc-13.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/obj/Debug/net6.0/ref/Exerc-13.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/obj/Debug/net6.0/Exerc-13.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 1 (Sequenciais)/Exerc-13/obj/Debug/net6.0/Exerc-13.genruntimeconfig.cache
