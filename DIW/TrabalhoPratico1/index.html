@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SoireeSpot</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link href="/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="container-md-fluid mt-2 mx-3 bg-dark rounded">
+          <div class="row">
+            <div class="col-2">
+              <img src="/img/icon.png" alt="" width="150" height="150">
+            </div>
+            <div class="col-5 flex-column">
+              <div>
+                <h3 class="text">Bem Vindos ao SoireeSpot</h3>
+              </div>
+              <div>
+                <form class="d-flex">
+                  <input class="form-control form-control-sm" type="search" placeholder="Pesquisar produtos">
+                  <button class="btn btn-outline-success mx-1" type="submit">Pesquisar</button>
+                </form>
+              </div>
+            </div>
+            <div class="col-5">
+              <div class="row">
+                <ul class="nav justify-content-end">
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Inicio</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Login</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Cadastre-se</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Carrinho</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Pedidos</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <div class="container-fluid mt-3">
+        <div class="row mx-1">
+          <div class="col-2 bg-dark rounded">
+            <p class="text">Filtro rápido de produtos</p>
+            <div class="mb-3 mt-1">
+              <select class="form-select">
+                <option selected>Categoria</option>
+                <option value="1">S.U.V</option>
+                <option value="2">Compacto</option>
+                <option value="3">Sedã</option>
+                <option value="4">Hatch</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <select class="form-select">
+                <option selected>Marca</option>
+                <option value="1">VolksWagen</option>
+                <option value="2">Ford</option>
+                <option value="3">Chevrolet</option>
+                <option value="4">Mitsubish</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <select class="form-select">
+                <option selected>Modelo</option>
+                <option value="1">Modelo a</option>
+                <option value="2">Modelo b</option>
+                <option value="3">Modelo c</option>
+                <option value="4">Modelo e</option>
+              </select>
+            </div>
+            <div class="col-12">
+              <button type="submit" class="btn btn-outline-success">Filtrar</button>
+            </div>
+            
+          </div>
+          <div class="col-10">
+            <div id="carouselExampleIndicators" class="carousel slide">
+              <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="/img/banner-01.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="/img/banner-02.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="/img/banner-03.jpg" class="d-block w-100" alt="...">
+                </div>
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="container-fluid mt-3">
+          <div class="row">
+            <div class="col-9">
+              <div class="row justify-content-between">
+
+                <div class="col-md-4 p-3">
+                  <img src="https://source.unsplash.com/random/100x100?sig=6" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                  </div>
+                </div>
+
+                <div class="col-md-4 p-3">
+                  <img src="https://source.unsplash.com/random/100x100?sig=7" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                  </div>
+                </div>
+
+                <div class="col-md-4 p-3">
+                  <img src="https://source.unsplash.com/random/100x100?sig=8" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                  </div>
+                </div>
+
+                <div class="col-md-4 p-3">
+                  <img src="https://source.unsplash.com/random/100x100?sig=9" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+            <div class="col-3">
+              <div class="row">
+
+                <div class="col mt-2">
+                  <img src="https://source.unsplash.com/random/100x100?sig=14" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
+</html>
