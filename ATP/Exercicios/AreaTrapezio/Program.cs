@@ -9,7 +9,7 @@ baseMenor = float.Parse(Console.ReadLine());
 Console.WriteLine("Digite o valor da Altura: ");
 altura = float.Parse(Console.ReadLine());
 float area = ((baseMaior + baseMenor) * altura) / 2;
-Console.WriteLine("O valor da área do trapézio: " + area );
+Console.WriteLine("O valor da área do trapézio é de: " + area );
 
 
 
