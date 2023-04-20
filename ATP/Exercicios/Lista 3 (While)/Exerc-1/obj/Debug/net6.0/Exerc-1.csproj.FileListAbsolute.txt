@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/obj/Debug/net6.0/Exerc-1.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/obj/Debug/net6.0/Exerc-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/obj/Debug/net6.0/Exerc-1.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/obj/Debug/net6.0/Exerc-1.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/obj/Debug/net6.0/Exerc-1.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/bin/Debug/net6.0/Exerc-1
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/bin/Debug/net6.0/Exerc-1.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/bin/Debug/net6.0/Exerc-1.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/bin/Debug/net6.0/Exerc-1.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/bin/Debug/net6.0/ref/Exerc-1.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/bin/Debug/net6.0/Exerc-1.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/obj/Debug/net6.0/Exerc-1.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/obj/Debug/net6.0/ref/Exerc-1.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/obj/Debug/net6.0/Exerc-1.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-1/obj/Debug/net6.0/Exerc-1.genruntimeconfig.cache

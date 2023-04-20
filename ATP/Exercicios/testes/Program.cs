@@ -1,7 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int numero = 10;
-int numero2 = 5;
-Console.WriteLine("Digite um número:" + (numero+numero2));
+string continua = "sim";
+int numero = 0;
+while (continua == "sim"){
+    Console.WriteLine("Digite um número:");
+    numero = int.Parse(Console.ReadLine());
+    Console.WriteLine(numero * 3);
+    Console.WriteLine("Deseja Continuar?");
+    continua = Console.ReadLine();
+}
 
 
 
