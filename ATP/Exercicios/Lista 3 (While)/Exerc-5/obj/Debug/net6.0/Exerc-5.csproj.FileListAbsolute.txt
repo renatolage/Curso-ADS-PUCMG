@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/bin/Debug/net6.0/Exerc-5
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/bin/Debug/net6.0/Exerc-5.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/bin/Debug/net6.0/Exerc-5.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/bin/Debug/net6.0/Exerc-5.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/bin/Debug/net6.0/ref/Exerc-5.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/bin/Debug/net6.0/Exerc-5.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/obj/Debug/net6.0/Exerc-5.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/obj/Debug/net6.0/Exerc-5.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/obj/Debug/net6.0/Exerc-5.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/obj/Debug/net6.0/Exerc-5.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/obj/Debug/net6.0/Exerc-5.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/obj/Debug/net6.0/Exerc-5.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/obj/Debug/net6.0/ref/Exerc-5.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/obj/Debug/net6.0/Exerc-5.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Exercicios/Lista 3 (While)/Exerc-5/obj/Debug/net6.0/Exerc-5.genruntimeconfig.cache
