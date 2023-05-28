@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalho-01/trabalho01/trabalho01.csproj",
+      "projectUniqueName": "/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/trabalho01/trabalho01.csproj",
       "projectName": "trabalho01",
-      "projectPath": "/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalho-01/trabalho01/trabalho01.csproj",
+      "projectPath": "/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/trabalho01/trabalho01.csproj",
       "packagesPath": "/home/renato/.nuget/packages/",
-      "outputPath": "/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalho-01/trabalho01/obj/",
+      "outputPath": "/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/trabalho01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/renato/.nuget/NuGet/NuGet.Config"

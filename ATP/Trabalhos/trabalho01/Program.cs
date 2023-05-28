@@ -104,13 +104,19 @@ class Program
         Console.Write("Quantidade de assentos disponíveis: ");
         int assentosDisponiveis = int.Parse(Console.ReadLine());
 
-        codigosVoos[numVoos] = codigoVoo;
-        distanciasVoos[numVoos] = distanciaVoo;
-        assentosDisponiveisVoos[numVoos] = assentosDisponiveis;
+        int vooIndex = Array.IndexOf(codigosVoos, codigoVoo);
+        if (vooIndex == -1){
+            codigosVoos[numVoos] = codigoVoo;
+            distanciasVoos[numVoos] = distanciaVoo;
+            assentosDisponiveisVoos[numVoos] = assentosDisponiveis;
 
-        numVoos++;
+            numVoos++;
 
-        Console.WriteLine("Voo cadastrado com sucesso.");
+            Console.WriteLine("Voo cadastrado com sucesso.");
+        } else {
+            Console.WriteLine("Código de voo já existe.");
+        }
+
     }
 
     /*
