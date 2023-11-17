@@ -1,0 +1,15 @@
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/bin/Debug/net6.0/Trabalho-Final-Ana-Paula
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/bin/Debug/net6.0/Trabalho-Final-Ana-Paula.deps.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/bin/Debug/net6.0/Trabalho-Final-Ana-Paula.runtimeconfig.json
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/bin/Debug/net6.0/Trabalho-Final-Ana-Paula.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/bin/Debug/net6.0/ref/Trabalho-Final-Ana-Paula.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/bin/Debug/net6.0/Trabalho-Final-Ana-Paula.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/obj/Debug/net6.0/Trabalho-Final-Ana-Paula.csproj.AssemblyReference.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/obj/Debug/net6.0/Trabalho-Final-Ana-Paula.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/obj/Debug/net6.0/Trabalho-Final-Ana-Paula.AssemblyInfoInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/obj/Debug/net6.0/Trabalho-Final-Ana-Paula.AssemblyInfo.cs
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/obj/Debug/net6.0/Trabalho-Final-Ana-Paula.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/obj/Debug/net6.0/Trabalho-Final-Ana-Paula.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/obj/Debug/net6.0/ref/Trabalho-Final-Ana-Paula.dll
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/obj/Debug/net6.0/Trabalho-Final-Ana-Paula.pdb
+/home/renato/Workspace/Curso-ADS-PUCMG/ATP/Trabalhos/Trabalho-Final-Ana-Paula/obj/Debug/net6.0/Trabalho-Final-Ana-Paula.genruntimeconfig.cache
